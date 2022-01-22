@@ -1,0 +1,1 @@
+for /d %%i in (C:\kk\Users\domain.com\*) do md "%%i\2018bak.IMAP"
